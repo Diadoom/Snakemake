@@ -12,6 +12,6 @@ dependencies:
   - snakemake=3.11.0
   - pyyaml=3.11
   - biopython
-  - bioconductor 
+  - bioconductor-KEGGREST
   - pip:
     - panda
